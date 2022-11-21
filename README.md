@@ -1,2 +1,2 @@
-# -ecommerce-applicationForSpringCloudConfig
+# ecommerce-applicationForSpringCloudConfig
 This is for  Ecommerce-application SpringCloudConfig
